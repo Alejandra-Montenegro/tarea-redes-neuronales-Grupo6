@@ -1,1 +1,0 @@
-# tarea-redes-neuronales-Grupo6
